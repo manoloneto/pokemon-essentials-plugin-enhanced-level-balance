@@ -39,6 +39,6 @@ module EnhancedLevelBalance
     INSANE = 55                                 # From level 41 to 55
     EXTREME = Settings::MAXIMUM_LEVEL           # From level 56 to MAXIMUM_LEVEL
 
-    ENHANCED_LEVEL_BALANCE_SWITCH = 59          # Switch that turns on Enhanced Level Balance
+    ENHANCED_LEVEL_BALANCE_SWITCH = 100          # Switch that turns on Enhanced Level Balance
   
 end

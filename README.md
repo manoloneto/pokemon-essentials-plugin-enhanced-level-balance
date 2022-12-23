@@ -2,13 +2,14 @@
 
 # Enhanced Level Balance Plugin
 
-[![plugin version](https://img.shields.io/badge/Plugin%20version-1.0.0-brightgreen)](#) [![essentials version](https://img.shields.io/badge/Essentials%20version-20.1-blue)](https://essentialsdocs.fandom.com/wiki/Essentials_Docs_Wiki)
+[![plugin version](https://img.shields.io/badge/Plugin%20version-1.0.0-brightgreen)](https://www.pokecommunity.com/showthread.php?t=488598) [![essentials version](https://img.shields.io/badge/Essentials%20version-20.1-blue)](https://essentialsdocs.fandom.com/wiki/Essentials_Docs_Wiki)
 
 > A plugin to Pokémon Essentials (RMXP) to balance level of encounters and evolve Pokémon if applicable.
 
 ## Install
 
 You can download this repository by click on **Code** blue button and next on **Donwload ZIP** option.
+
 In your PC, move the **Enhanced Level Balance** folder to your **Plugins** folder into your project.
 
 That's it.
@@ -16,7 +17,7 @@ That's it.
 ## Settings
 
 In the `000_settings.rb` file, you will found some options to customize the plugin.
-The evolution methods included in this script are listed above.
+The evolution methods included in this script are listed bellow.
 
 #### By Level Up
 
@@ -64,4 +65,5 @@ The evolution methods included in this script are listed above.
 
 > **WARNING** 
 > - Evolution methods that call for specific genres have been left out of this script for now.
-> - The evolution method by specific events was left out because I thought it was better that way. Just this.
+> - The evolution method by specific events was left out because I thought it was better that way. Just it.
+> - This script works with [Visible Overworld Wild Encounter](https://www.pokecommunity.com/showthread.php?t=429019) script by derFischae.

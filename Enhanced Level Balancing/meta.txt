@@ -1,5 +1,5 @@
 Name         = Enhanced Level Balancing
 Version      = 1.0.0
 Essentials   = 20.1
-Link         = https://www.pokecommunity.com/showthread.php?t=409828              
+Link         = https://www.pokecommunity.com/showthread.php?t=488598              
 Credits      = Manoel Afonso, Joltik, Umbreon
